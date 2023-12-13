@@ -7,5 +7,7 @@
 
 ### Install Requirements:
 ```
-git clone https://github.com/famousxhacker/telegram-post-viewer; cd tg-views; pip install -r requirements.txt; clear; 
+git clone https://github.com/famousxhacker/telegram-post-viewer; cd telegram-post-viewer; pip install -r requirements.txt; clear; 
 ```
+## How to Run This Script
+> python3 main.py
