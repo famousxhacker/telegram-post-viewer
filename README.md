@@ -7,5 +7,5 @@
 
 ### Install Requirements:
 ```
-git clone https://github.com/famousxhacker/tg-views; cd tg-views; pip install -r requirements.txt; clear; 
+git clone https://github.com/famousxhacker/telegram-post-viewer; cd tg-views; pip install -r requirements.txt; clear; 
 ```
